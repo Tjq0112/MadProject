@@ -66,11 +66,11 @@ Target User
 
 DATABASE
 We use Firebase as the database to store our data. The database consists of 5 tables which are:
-Admin - Admin_Id, Username, Password
-User - User_Id, Username, User_FullName, User_IC, User_PhoneNumber, Password
-Driver - Driver_Id, Username, Driver_FullName, Driver_IC, Driver_PhoneNumber, Password, Email, Location, Active
-Bin - Bin_Id, Bin_Alias, Bin_Location, Bin_Temperature, Bin_Weight, Bin_fillLevel, User_Id
-Schedule - Schedule_Id, Date, Status, Type, Bin_Id, Driver_Id
+- Admin - Admin_Id, Username, Password
+- User - User_Id, Username, User_FullName, User_IC, User_PhoneNumber, Password
+- Driver - Driver_Id, Username, Driver_FullName, Driver_IC, Driver_PhoneNumber, Password, Email, Location, Active
+- Bin - Bin_Id, Bin_Alias, Bin_Location, Bin_Temperature, Bin_Weight, Bin_fillLevel, User_Id
+- Schedule - Schedule_Id, Date, Status, Type, Bin_Id, Driver_Id
 
 HARDWARE & SOFTWARE
 Hardware: mobile devices, laptop/desktop, microbit
