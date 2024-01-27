@@ -78,7 +78,7 @@ Software: Android Studio, Github, Firebase
 
 CONCLUSION
 In conclusion, the Smart Waste Collection System is introduced to address the limitations of 
-traditional waste practices amid urbanisation. This chapter outlines the system's key features, 
+traditional waste practices amid  urbanisation. This chapter outlines the system's key features, 
 including IoT sensors, real-time data analysis, and an efficient waste collection app. By tackling 
 issues with current waste collection services, the project aims to enhance user feedback, improve 
 worker operations through geolocation, and bring overall efficiency to waste collection. The 
